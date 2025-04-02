@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPslice&count_bg=%233D8805&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E9E1BE&title=%3D&edge_flat=false)](https://hits.seeyoufarm.com)
+😎
 <!--
 **Pslice/Pslice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
